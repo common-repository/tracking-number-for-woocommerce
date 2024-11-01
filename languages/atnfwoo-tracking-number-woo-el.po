@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tracking Number for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-05 09:51+0000\n"
+"PO-Revision-Date: 2022-10-05 09:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ελληνικά\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: atnfwoo-tracking-number-woo"
+
+#. Description of the plugin
+msgid "Add the order tracking number to your WooCommerce orders."
+msgstr ""
+
+#. Author of the plugin
+msgid "Analogue"
+msgstr ""
+
+#: order-tracking-number.php:61
+msgid "Courier"
+msgstr ""
+
+#: order-tracking-number.php:26
+msgid "Courier Name"
+msgstr ""
+
+#: order-tracking-number.php:39
+msgid "Courier Tracking Number"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://analogue.gr"
+msgstr ""
+
+#: admin/order-tracking-number-settings.php:73
+msgid "Message"
+msgstr ""
+
+#: order-tracking-number.php:60
+msgid "Order Tracking Code"
+msgstr ""
+
+#. Name of the plugin
+msgid "Tracking Number for WooCommerce"
+msgstr ""
+
+#: admin/order-tracking-number-settings.php:27
+#: admin/order-tracking-number-settings.php:66
+msgid "Tracking Number Message"
+msgstr ""
